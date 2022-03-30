@@ -9,6 +9,6 @@ public class HelloRestController {
 	@GetMapping("/hii")
 	
 	public String sayHello() {
-		return "welcome to CICD world....";
+		return "welcome to CICD world plz start rocking....";
 	}
 }
