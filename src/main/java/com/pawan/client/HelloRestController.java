@@ -11,4 +11,5 @@ public class HelloRestController {
 	public String sayHello() {
 		return "welcome to CICD world plz start rocking....";
 	}
+	///boot-jenkins/target/dockerdemo.jar
 }
