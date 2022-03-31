@@ -9,7 +9,7 @@ public class HelloRestController {
 	@GetMapping("/hii")
 	
 	public String sayHello() {
-		return "welcome to CICD world plz start rocking....";
+		return "welcome to CICD world  start rocking....";
 	}
 	///boot-jenkins/target/dockerdemo.jar
 }
